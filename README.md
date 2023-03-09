@@ -1,5 +1,14 @@
 # Alfred_Obsidian_CR-LF
 
+
+Update: Mar 2023
+
+I don't use this anymore because the Obsidian plugin "Hotkeys++" by 
+Argentina Ortega Sainz works much better.
+
+----
+
+
 Only tested on a MAC/Big Sur 11.6.3
 
 1. Select some text, 
